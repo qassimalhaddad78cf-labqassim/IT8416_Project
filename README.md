@@ -37,6 +37,21 @@ By leveraging the KDD (Knowledge Discovery in Databases) process, we develop pre
 
 ---
 
+## Project Video 
+
+Watch the complete project walkthrough [here](https://youtu.be/LtB5XJ1sVD8?si=1_AATWxwGYZw-i45).
+
+### 📋 The video includes:
+- **Project overview and business context**
+- **Data exploration and visualization**
+- **Preprocessing steps and transformations**
+- **Model building and parameter tuning**
+- **Results comparison and evaluation**
+- **Key insights and recommendations**
+- **GitHub repository overview**
+
+---
+
 ## Pipeline Files
 
 | File | Description |
