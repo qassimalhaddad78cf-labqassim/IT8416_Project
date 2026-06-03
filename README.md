@@ -1,14 +1,14 @@
 # IT8416 Data Mining Project — Lending Club Loan Credit Risk Classification
 
-**Group Number:** [Insert Group No]  
+**Group Number:** [3]  
 **Project Title:** Lending Club Loan Credit Risk Classification
 
 ### Group Members:
 * **Qassim Alhaddad** (ID: 202300649)
-* **Ali Mohammed Radhi** (ID: 202304871) — Data Mining Engineer
-* **Faisal** (ID: [Insert ID])
-* **Ali Alshuaikh** (ID: [Insert ID])
-* **Ali Hussain Yusuf** (ID: [Insert ID])
+* **Ali Mohammed Radhi** (ID: 202304871)
+* **Faisal** (ID: 202305620)
+* **Ali Alshuwaikh** (ID: 202302172)
+* **Ali Hussain Yusuf** (ID: 202301319)
 
 ---
 
@@ -41,10 +41,12 @@ By leveraging the KDD (Knowledge Discovery in Databases) process, we develop pre
 
 | File | Description |
 | :--- | :--- |
-| `task1_cleaned_data.rmp` | Data cleaning, preprocessing, and preparation pipeline |
-| `task3_cleaned_training_with_features.rmp` | Training data with feature engineering, Time, Name Ensemble |
-| `task4_model_building.rmp` | Classification models – Decision Tree, Naïve Bayes, Ensemble |
-| `test_classified_data.rmp` | Test set classification and result analysis |
+| `task2_distribution_process.rmp` | Explores data distribution across variables |
+| `task2_MissingData_process.rmp` | Pipeline for handling null entries and missing values |
+| `task2_redundancy_process.rmp` | Filters redundant features and correlated attributes |
+| `Task 3.rmp` | Training data with feature engineering, Time, Name Ensemble |
+| `Task 4.rmp` | Classification models – Decision Tree, Naïve Bayes, Ensemble |
+| `FINAL_DATA_MINING.docx` | Comprehensive documentation of final project outcomes |
 
 ---
 
@@ -66,6 +68,14 @@ The Decision Tree model identified **Interest Rate** and **FICO Score** as the m
 ## Project Structure
 ```text
 ├── 01_Project_Report/
+│   └── FINAL_DATA_MINING.docx
+├── 02_Software_Files/
+│   ├── task2_distribution_process.rmp
+│   ├── task2_MissingData_process.rmp
+│   ├── task2_redundancy_process.rmp
+│   ├── Task 3.rmp
+│   └── Task 4.rmp
+└── README.md
 │   └── Project Report.pdf
 ├── 02_Software_Files/
 │   ├── Task 3.rmp
