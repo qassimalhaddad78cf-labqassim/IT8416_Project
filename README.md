@@ -76,8 +76,4 @@ The Decision Tree model identified **Interest Rate** and **FICO Score** as the m
 │   ├── Task 3.rmp
 │   └── Task 4.rmp
 └── README.md
-│   └── Project Report.pdf
-├── 02_Software_Files/
-│   ├── Task 3.rmp
-│   └── Task 4.rmp
-└── README.md
+
