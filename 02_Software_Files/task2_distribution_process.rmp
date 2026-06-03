@@ -18,9 +18,11 @@
       <operator activated="true" class="model_simulator:data_statistics" compatibility="11.1.003" expanded="true" height="82" name="Statistics" width="90" x="179" y="34"/>
       <connect from_op="Retrieve loans_full_schema" from_port="output" to_op="Statistics" to_port="example set"/>
       <connect from_op="Statistics" from_port="statistics" to_port="result 1"/>
+      <connect from_op="Statistics" from_port="example set" to_port="result 2"/>
       <portSpacing port="source_input 1" spacing="0"/>
       <portSpacing port="sink_result 1" spacing="0"/>
       <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
     </process>
   </operator>
 </process>
