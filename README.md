@@ -6,7 +6,7 @@
 ### Group Members:
 * **Qassim Alhaddad** (ID: 202300649)
 * **Ali Mohammed Radhi** (ID: 202304871)
-* **Faisal Ali Ahmed ** (ID: 202305620)
+* **Faisal Ali Ahmed** (ID: 202305620)
 * **Ali Alshuwaikh** (ID: 202302172)
 * **Ali Hussain Yousif** (ID: 202301319)
 
